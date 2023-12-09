@@ -1,1 +1,3 @@
-# Node37_sequelize-app-food
+# Node 37
+
+## Tran Quang Tri
